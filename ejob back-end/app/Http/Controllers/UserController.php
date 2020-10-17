@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Http\Requests\User\CreateRequest;
 use App\Http\Requests\User\LoginRequest;
+use App\Http\Resources\User\UserCollection;
 use App\Http\Resources\User\UserResource;
 use App\Repositories\UserRepositoryInterface;
 use Tymon\JWTAuth\Facades\JWTAuth;
@@ -19,7 +20,7 @@ class UserController extends Controller
 
     public function index()
     {
-        return $this->repository->all();
+        return _response(new UserCollection($this->repository->all()));
     }
 
     public function login(LoginRequest $request)

@@ -54,7 +54,7 @@ class TodoController extends Controller
         $data = array_merge($request->validated(), ['user_id' => $user->id]);
         $todo = $this->repository->create($data);
         event(new TodoCreated($todo , $user));
-        return _response(new TodoResource($todo));
+        return _response(new TodoResource($todo) , 201);
     }
 
     public function update(Todo $todo, UpdateRequest $request)
