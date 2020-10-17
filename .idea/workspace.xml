@@ -10,13 +10,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b689d88c-38d7-4c25-b928-7e2175ee162f" name="Default Changelist" comment="first commit" />
+    <list default="true" id="b689d88c-38d7-4c25-b928-7e2175ee162f" name="Default Changelist" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejob back-end/app/Http/Requests/Todo/UpdateRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejob back-end/app/Http/Requests/Todo/UpdateRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejob front-end/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ejob front-end/src/App.vue" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/ejob back-end/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -164,7 +169,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602898963906</updated>
-      <workItem from="1602898965515" duration="1814000" />
+      <workItem from="1602898965515" duration="2599000" />
+      <workItem from="1602940641665" duration="616000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1602899124935</created>
@@ -189,6 +195,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />

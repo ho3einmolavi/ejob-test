@@ -24,7 +24,7 @@ class UpdateRequest extends FormRequest
     public function rules()
     {
         return [
-            'title' => 'sometimes|string|min:5' ,
+            'title' => 'sometimes|string' ,
             'description' => 'sometimes' ,
             'done' => 'sometimes|boolean'
         ];
