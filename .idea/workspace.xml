@@ -11,10 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b689d88c-38d7-4c25-b928-7e2175ee162f" name="Default Changelist" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ejob back-end/app/Http/Requests/Todo/UpdateRequest.php" beforeDir="false" afterPath="$PROJECT_DIR$/ejob back-end/app/Http/Requests/Todo/UpdateRequest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejob front-end" beforeDir="false" afterPath="$PROJECT_DIR$/ejob front-end" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ejob front-end/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ejob front-end/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ejob front-end/src/components/todoActions/delete_edit.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ejob front-end/src/components/todoActions/delete_edit.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -170,7 +170,7 @@
       <option name="presentableId" value="Default" />
       <updated>1602898963906</updated>
       <workItem from="1602898965515" duration="2599000" />
-      <workItem from="1602940641665" duration="616000" />
+      <workItem from="1602940641665" duration="4113000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1602899124935</created>
